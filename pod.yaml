@@ -6,4 +6,4 @@ spec:
   serviceAccountName: internal-kubectl
   containers:
     - name: internal-kubectl
-      image: trstringer/internal-kubectl:latest
+      image: samiytesti:1.0.4 
